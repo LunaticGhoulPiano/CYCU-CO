@@ -1,0 +1,522 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Allen/Downloads
+vadd32
+Z0 !s110 1686133070
+!i10b 1
+!s100 eNV9O9o`JD09[eJAz7HPO2
+ILlEbK3mO<@FcDEIeOllJ?2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Allen/Desktop/CO-finalversion
+w1685892877
+8C:/Users/Allen/Desktop/CO-finalversion/add32.v
+FC:/Users/Allen/Desktop/CO-finalversion/add32.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1686133070.000000
+!s107 C:/Users/Allen/Desktop/CO-finalversion/add32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/add32.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+vALU
+R0
+!i10b 1
+!s100 770bako`zJ[K2ga44Di:O2
+I^[5Kiba?8:jYCfJLfj6OG1
+R1
+R2
+w1686101594
+8C:/Users/Allen/Desktop/CO-finalversion/ALU.v
+FC:/Users/Allen/Desktop/CO-finalversion/ALU.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Allen/Desktop/CO-finalversion/ALU.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/ALU.v|
+!i113 1
+R5
+R6
+n@a@l@u
+valu_1bit
+R0
+!i10b 1
+!s100 UOhSbA9Q:WBU[25J?VM2Q3
+I;?JmP9KDo01SCUl;YZoNT3
+R1
+R2
+w1685893539
+8C:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v
+FC:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v|
+!i113 1
+R5
+R6
+valu_1bit32th
+R0
+!i10b 1
+!s100 FUMS1Oz]0KCfaM1j4jM201
+IgonCKl2cH0AXFL_BFc>aB1
+R1
+R2
+w1685802637
+8C:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v
+FC:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v|
+!i113 1
+R5
+R6
+valu_ctl
+R0
+!i10b 1
+!s100 :Zm:S4Mhhmbe^M]lMW]n<2
+IlR21]]zET^Pz=k<CUl8Mf0
+R1
+R2
+w1685950176
+8C:/Users/Allen/Desktop/CO-finalversion/alu_ctl.v
+FC:/Users/Allen/Desktop/CO-finalversion/alu_ctl.v
+L0 2
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Allen/Desktop/CO-finalversion/alu_ctl.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/alu_ctl.v|
+!i113 1
+R5
+R6
+vcontrol_pipeline
+R0
+!i10b 1
+!s100 gh:WC[1N@:_g9Y^b]QCFF1
+IWi^?FgS_kM7M4VYW2<c<J3
+R1
+R2
+w1686106198
+8C:/Users/Allen/Desktop/CO-finalversion/control_pipeline.v
+FC:/Users/Allen/Desktop/CO-finalversion/control_pipeline.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Allen/Desktop/CO-finalversion/control_pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/control_pipeline.v|
+!i113 1
+R5
+R6
+vEX_MEM
+Z7 !s110 1686133071
+!i10b 1
+!s100 i3j>dPWIb:jI;E4Khoj`_0
+In8PBgo=P2];I>zzizLi5A3
+R1
+R2
+w1685950435
+8C:/Users/Allen/Desktop/CO-finalversion/EX_MEM.v
+FC:/Users/Allen/Desktop/CO-finalversion/EX_MEM.v
+L0 1
+R3
+r1
+!s85 0
+31
+Z8 !s108 1686133071.000000
+!s107 C:/Users/Allen/Desktop/CO-finalversion/EX_MEM.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/EX_MEM.v|
+!i113 1
+R5
+R6
+n@e@x_@m@e@m
+vfull_adder
+R7
+!i10b 1
+!s100 BL;FNWZQ@S=Nl1mH9lcYA3
+IX^76Y;XfcmehJ<K`[gAd>3
+R1
+R2
+w1683477389
+8C:/Users/Allen/Desktop/CO-finalversion/full_adder.v
+FC:/Users/Allen/Desktop/CO-finalversion/full_adder.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/full_adder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/full_adder.v|
+!i113 1
+R5
+R6
+vID_EX
+R7
+!i10b 1
+!s100 bE>db02C]ENnV;J7QAdUm0
+I9oGTWSa9Ab0NKZ7^z6F6m0
+R1
+R2
+w1685897931
+8C:/Users/Allen/Desktop/CO-finalversion/ID_EX.v
+FC:/Users/Allen/Desktop/CO-finalversion/ID_EX.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/ID_EX.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/ID_EX.v|
+!i113 1
+R5
+R6
+n@i@d_@e@x
+vIF_ID
+R7
+!i10b 1
+!s100 >:FW2zzkPod@c`c7Zf8HY3
+IdXD`aPfXfoeDGMI7c9e0c2
+R1
+R2
+w1685893787
+8C:/Users/Allen/Desktop/CO-finalversion/IF_ID.v
+FC:/Users/Allen/Desktop/CO-finalversion/IF_ID.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/IF_ID.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/IF_ID.v|
+!i113 1
+R5
+R6
+n@i@f_@i@d
+vMEM_WB
+R7
+!i10b 1
+!s100 K3RAclMBaGf]he[DbbT9W0
+Il7=]n:Rbbom^j[9i8PXPN3
+R1
+R2
+w1685950283
+8C:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v
+FC:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v|
+!i113 1
+R5
+R6
+n@m@e@m_@w@b
+vmemory
+R7
+!i10b 1
+!s100 M<>fQI5Vz[:=1@e1YLkOo3
+IfV86jAlQe[@WZegj^KRzD1
+R1
+R2
+w1685893862
+8C:/Users/Allen/Desktop/CO-finalversion/memory.v
+FC:/Users/Allen/Desktop/CO-finalversion/memory.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/memory.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/memory.v|
+!i113 1
+R5
+R6
+vmips_pipeline
+R7
+!i10b 1
+!s100 ]Fn6di2fV_[A97[?R;XEO0
+Ik5eIC>h>80dozXj]DNEaI1
+R1
+R2
+w1686091979
+8C:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v
+FC:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v|
+!i113 1
+R5
+R6
+vMultiplier
+R7
+!i10b 1
+!s100 EeLa;a^VBlKXMFZK=TQHm3
+ISlWH3NNMd3NzNHMSYO4N@1
+R1
+R2
+w1685896638
+8C:/Users/Allen/Desktop/CO-finalversion/Multiplier.v
+FC:/Users/Allen/Desktop/CO-finalversion/Multiplier.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/Multiplier.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/Multiplier.v|
+!i113 1
+R5
+R6
+n@multiplier
+vmux2
+R7
+!i10b 1
+!s100 Y7keS:5H6W<8]0j^0=d`T3
+ITfCYfNa6d<8khldd<g_8X0
+R1
+R2
+w1685896622
+8C:/Users/Allen/Desktop/CO-finalversion/mux2.v
+FC:/Users/Allen/Desktop/CO-finalversion/mux2.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mux2.v|
+!i113 1
+R5
+R6
+vmux2_5bit
+R7
+!i10b 1
+!s100 B^:RlLR;Y25c4<S>lHceb0
+I89`HJ<MM3ACMGU5bo_A?e2
+R1
+R2
+Z9 w1659863841
+8C:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v
+FC:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v|
+!i113 1
+R5
+R6
+vmux2_cal
+R7
+!i10b 1
+!s100 `UA=lDe26E4Z<_j0P8Pii0
+IE^N1k9TO9jX=6N2ZF^Ak:3
+R1
+R2
+w1685892853
+8C:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v
+FC:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v|
+!i113 1
+R5
+R6
+vmux2_mf
+R7
+!i10b 1
+!s100 9;a8oOo=`O9FkmPRed9cU1
+IVkI@J]IM:AQg_mWbfPCFW3
+R1
+R2
+R9
+8C:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v
+FC:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v|
+!i113 1
+R5
+R6
+vmux_2to1
+R7
+!i10b 1
+!s100 E8H=JXG4:a0l[X_id9ZE62
+IcaW@C<UgLMeVm>QI^=]Me3
+R1
+R2
+w1683477395
+8C:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v
+FC:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v|
+!i113 1
+R5
+R6
+vreg32
+R7
+!i10b 1
+!s100 [77;6Z@aP>DAH]maM>K`K1
+IUeL0lLoH4CeFFZiLWRAhC0
+R1
+R2
+w1685896158
+8C:/Users/Allen/Desktop/CO-finalversion/reg32.v
+FC:/Users/Allen/Desktop/CO-finalversion/reg32.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/reg32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/reg32.v|
+!i113 1
+R5
+R6
+vreg_file
+R7
+!i10b 1
+!s100 ZR2TIQM2]<D0DWonIcSHf2
+IHbzfYNK0;?1=]joi1[_]`0
+R1
+R2
+w1685896163
+8C:/Users/Allen/Desktop/CO-finalversion/reg_file.v
+FC:/Users/Allen/Desktop/CO-finalversion/reg_file.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/reg_file.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/reg_file.v|
+!i113 1
+R5
+R6
+vShifter
+R7
+!i10b 1
+!s100 j;^Z59^k9b^RV7L;`N85J0
+I[AFU7QGAQ58BjFB=iX]]A3
+R1
+R2
+w1685897859
+8C:/Users/Allen/Desktop/CO-finalversion/Shifter.v
+FC:/Users/Allen/Desktop/CO-finalversion/Shifter.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/Shifter.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/Shifter.v|
+!i113 1
+R5
+R6
+n@shifter
+vsign_extend
+R7
+!i10b 1
+!s100 >f9b5m`MmQHcDQc;B_S:A1
+I;RT?<7JDOYEfH@9lHGecV1
+R1
+R2
+w1685893132
+8C:/Users/Allen/Desktop/CO-finalversion/sign_extend.v
+FC:/Users/Allen/Desktop/CO-finalversion/sign_extend.v
+L0 1
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/sign_extend.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/sign_extend.v|
+!i113 1
+R5
+R6
+vtb_Pipeline
+R7
+!i10b 1
+!s100 P=_SadT8a6W7<^7`NG7=@1
+I=VTCabMMb3bS;hh6D7U6F3
+R1
+R2
+w1686132938
+8C:/Users/Allen/Desktop/CO-finalversion/tb_Pipeline.v
+FC:/Users/Allen/Desktop/CO-finalversion/tb_Pipeline.v
+L0 2
+R3
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/Allen/Desktop/CO-finalversion/tb_Pipeline.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Allen/Desktop/CO-finalversion/tb_Pipeline.v|
+!i113 1
+R5
+R6
+ntb_@pipeline

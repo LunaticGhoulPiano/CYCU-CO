@@ -1,0 +1,141 @@
+C:/Users/Allen/Desktop/CO-finalversion/add32.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/add32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module add32
+
+Top level modules:
+	add32
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/MEM_WB.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module MEM_WB
+
+Top level modules:
+	MEM_WB
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/Multiplier.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/Multiplier.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Multiplier
+
+Top level modules:
+	Multiplier
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mux_2to1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux_2to1
+
+Top level modules:
+	mux_2to1
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mux2_5bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2_5bit
+
+Top level modules:
+	mux2_5bit
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/sign_extend.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/sign_extend.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sign_extend
+
+Top level modules:
+	sign_extend
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/alu_1bit.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu_1bit
+
+Top level modules:
+	alu_1bit
+
+} {} {}} {C:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v} {1 {vlog -work work -stats=none {C:/Users/Allen/Desktop/CO-finalversion/alu_1 bit32th.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module alu_1bit32th
+
+Top level modules:
+	alu_1bit32th
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/tb_Pipeline.v {1 {vlog -work work -stats=none {C:\Users\Allen\Desktop\CO-finalversion\tb_Pipeline.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_Pipeline
+
+Top level modules:
+	tb_Pipeline
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mux2_cal.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2_cal
+
+Top level modules:
+	mux2_cal
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mux2.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/Shifter.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/Shifter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module Shifter
+
+Top level modules:
+	Shifter
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/reg_file.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/reg_file.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reg_file
+
+Top level modules:
+	reg_file
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mips_pipeline.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mips_pipeline
+
+Top level modules:
+	mips_pipeline
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/mux2_mf.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module mux2_mf
+
+Top level modules:
+	mux2_mf
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/ID_EX.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/ID_EX.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ID_EX
+
+Top level modules:
+	ID_EX
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/memory.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/memory.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module memory
+
+Top level modules:
+	memory
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/ALU.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/ALU.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/reg32.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/reg32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module reg32
+
+Top level modules:
+	reg32
+
+} {} {}} C:/Users/Allen/Desktop/CO-finalversion/IF_ID.v {1 {vlog -work work -stats=none C:/Users/Allen/Desktop/CO-finalversion/IF_ID.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module IF_ID
+
+Top level modules:
+	IF_ID
+
+} {} {}}
